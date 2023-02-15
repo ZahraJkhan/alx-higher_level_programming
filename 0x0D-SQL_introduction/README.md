@@ -1,5 +1,5 @@
 <B>Learning Objectives</B>
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+<B>At the end of this project, you are expected to be able to explain to anyone, without the help of Google:</B></br>
 General</br>
 - What’s a database
 - What’s a relational database
