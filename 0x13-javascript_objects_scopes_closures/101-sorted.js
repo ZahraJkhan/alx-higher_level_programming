@@ -1,13 +1,13 @@
 #!/usr/bin/node
-/**
- * An arbitrary object with keys as occurrences and their
- * corresponding value as a user id.
- */
-exports.dict = {
-  89: 1,
-  90: 2,
-  91: 1,
-  92: 3,
-  93: 1,
-  94: 2
-};
+const dict = require('./101-data.js').dict;
+
+const newDict = {};
+
+Object.getOwnPropertyNames(dict).forEach(occurences => {
+  if (newDict[dict[occurences]] === undefined) {
+    newDict[dict[occurences]] = [occurences];
+  } else {
+    newDict[dict[occurences]].push(occurences);
+  }
+});
+console.log(newDict);
