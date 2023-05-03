@@ -2,17 +2,18 @@
 <p>At the end of this project, you are expected to be able to explain to anyone, without the help of Google:</p>
 
 <h2>General</h2>
- - Why JQuery make front-end programming so easy (don’t forget to tweet today, with the hashtag #ilovejquery :))
- - How to select HTML elements in JavaScript
- - How to select HTML elements with JQuery
- - What are differences between ID, class and tag name selectors
- - How to modify an HTML element style
- - How to get and update an HTML element content
- - How to modify the DOM 
- - How to make a GET request with JQuery Ajax
- - How to make a POST request with JQuery Ajax
- - How to listen/bind to DOM events
-- How to listen/bind to user events
+<ul>
+<li>Why JQuery make front-end programming so easy (don’t forget to tweet today, with the hashtag #ilovejquery :))</li>
+<li>How to select HTML elements in JavaScript</li>
+<li>How to select HTML elements with JQuery</li>
+<li>What are differences between ID, class and tag name selectors</li>
+<li>How to modify an HTML element style</li>
+<li>How to get and update an HTML element content</li>
+<li>How to modify the DOM </li>
+<li>How to make a GET request with JQuery Ajax</li>
+<li>How to make a POST request with JQuery Ajax</li>
+<li>How to listen/bind to DOM events</li>
+<li>How to listen/bind to user events</li></ul>
 <h3>Copyright - Plagiarism</h3>
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
